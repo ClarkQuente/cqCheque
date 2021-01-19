@@ -1,0 +1,5 @@
+name: cqCheque
+version: 1.0.0
+main: me.clarkquente.Main
+commands:
+  cheque:
